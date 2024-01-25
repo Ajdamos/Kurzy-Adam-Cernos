@@ -24,13 +24,14 @@ function App() {
 
   return (
     <div className="flex flex-col items-center bg-gray-900 h-[100vh] text-gray-200 font-bold">
+      <h1 className="text-3xl m-6 text-gray-200">Kurz</h1>
       <div className="flex flex-col justify-around items-center lg:flex-row">
         <Menu setState={setBank} options={DropdownOptions}/>
         <InputNumber value={amount} placeholder={"Amount"} setState={setAmount} />
         <Menu setState={setCurrency} options={rates ? Object.keys(rates) : ["CZK"]}/>
       </div>
       <h1 className="text-xl text-gray-200">Filter</h1>
-      <Input value={filter} placeholder={"Example..."} setState={setFilter} />
+      <Input value={filter} placeholder={"Česká koruna"} setState={setFilter} />
       <CurrencyContainer rates={rates} currency={currency} Exchange={Exchange} filter={filter}/>
     </div>
 
