@@ -1,5 +1,7 @@
-import DropDown from 'react-dropdown'
 import React from 'react'
+import DropDown from 'react-dropdown'
+import 'react-dropdown/style.css';
+
 
 export const Menu = (props: {options: any[], setState: any}) => {
     const {options, setState} = props

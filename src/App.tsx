@@ -1,6 +1,5 @@
 import React ,{ useState } from "react";
 import {DropdownOptions} from "./Options"
-import 'react-dropdown/style.css';
 import useGetRates from "./useGetRates"
 import { CurrencyContainer } from "./components/CurrencyContainer";
 import { Menu } from "./components/Menu";
