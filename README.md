@@ -1,4 +1,4 @@
-# Kurzy Adam Černoš Zadání
+# Měnové Kurzy Adam Černoš Zadání
 
 # Dostupnost
 
