@@ -1,5 +1,11 @@
 # Kurzy Adam Černoš Zadání
 
+# Setup
+Není to nutné, ta verze kterou si spustíte je ta stejná co je hostnutá online
+1. Naclonujte si do počítače repozitář
+2. Do console vlozte "npm i"
+3. nasledne spustite "npm run dev"
+
 # Použití
 Vyberte banku podle které chcete mít kurz udán (každá banka může mít jiné hodnoty i měny)
 Následně do Amount políčka napište množstí hodnoty
