@@ -2,7 +2,7 @@
 
 # Dostupnost
 
-Aplikace je dostupná na https://kurzy-adam-cernos.vercel.app/ 
+Aplikace je dostupná na https://menove-kurzy-adam-cernos.vercel.app/ 
 
 # Setup
 Není to nutné, ta verze kterou si spustíte je ta stejná co je hostnutá online. <br />
