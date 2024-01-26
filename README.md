@@ -18,8 +18,8 @@ Dole se vám vypíší všechny možné měny, které banka podporuje a jejich h
 Můžete použít pole filter na hledání specifické měny, podporuje jak název tak kód měny. <br />
 
 # Technologie 
-React - Framework( ikdyž to neni framework)<br />
-TypeScript - Na typování dat<br />
+React - Framework(i když to není framework)<br />
+TypeScript - Typování dat<br />
 Tailwind - Stylizace<br />
 Axios - Fetch knihovna<br />
 
